@@ -13,6 +13,8 @@
 
 ### [Google とのデータの同期を無効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::SyncDisabled&Language=ja-jp)
 
+[SyncDisabled](https://chromeenterprise.google/policies/?policy=SyncDisabled)
+
 ![image](https://user-images.githubusercontent.com/1501327/154179523-1645df55-cbad-4a30-9474-9df23194f57a.png)
 
 ### [パスワード マネージャーへのパスワード保存を有効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::PasswordManagerEnabled&Language=ja-jp)
