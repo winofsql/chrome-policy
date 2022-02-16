@@ -11,3 +11,6 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/154178065-433e2abf-332c-413b-9578-3454a54308dd.png)
 
+### Google とのデータの同期を無効にする
+
+![image](https://user-images.githubusercontent.com/1501327/154179523-1645df55-cbad-4a30-9474-9df23194f57a.png)
