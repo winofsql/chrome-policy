@@ -9,6 +9,11 @@
 
 ### [デバイスから Chrome のデータを自動的に削除する](https://support.google.com/chrome/a/answer/10686330?hl=ja)
 
+[ClearBrowsingDataOnExitList](https://chromeenterprise.google/policies/?policy=ClearBrowsingDataOnExitList)
+```
+Software\Policies\Google\Chrome\ClearBrowsingDataOnExitList
+```
+
 ![image](https://user-images.githubusercontent.com/1501327/154178065-433e2abf-332c-413b-9578-3454a54308dd.png)
 
 ### [Google とのデータの同期を無効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::SyncDisabled&Language=ja-jp)
