@@ -44,6 +44,11 @@ Software\Policies\Google\Chrome\SyncDisabled
 Software\Policies\Google\Chrome\PasswordManagerEnabled
 ```
 
+<br>
+
+![image](https://user-images.githubusercontent.com/1501327/154184046-f2cd70c7-8563-4789-817d-de4d72d4578e.png)
+
+
 ### 起動時
 
 [RestoreOnStartup](https://chromeenterprise.google/policies/#RestoreOnStartup)
