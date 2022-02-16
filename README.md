@@ -43,3 +43,16 @@ Software\Policies\Google\Chrome\SyncDisabled
 ```
 Software\Policies\Google\Chrome\PasswordManagerEnabled
 ```
+
+### 起動時
+
+[RestoreOnStartup](https://chromeenterprise.google/policies/#RestoreOnStartup)
+```
+Software\Policies\Google\Chrome\RestoreOnStartup
+```
+
+[RestoreOnStartupURLs](https://chromeenterprise.google/policies/#RestoreOnStartupURLs)
+```
+Software\Policies\Google\Chrome\RestoreOnStartupURLs\1 = https://example.com
+Software\Policies\Google\Chrome\RestoreOnStartupURLs\2 = https://www.chromium.org
+```
