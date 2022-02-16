@@ -1,5 +1,9 @@
 # chrome-policy
 
+[管理対象パソコンに Chrome ブラウザのポリシーを設定する](https://support.google.com/chrome/a/answer/187202?hl=ja)\
+[【Google Chrome】ポリシーテンプレートで共有PCの勝手な設定変更を禁止する](https://atmarkit.itmedia.co.jp/ait/articles/1906/12/news018.html)
+
+
 ### 自動入力
 ![image](https://user-images.githubusercontent.com/1501327/154174337-bb846f65-5aef-4cad-97c4-50e6f5d87ea8.png)
 
