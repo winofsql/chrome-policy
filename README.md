@@ -23,3 +23,8 @@ Software\Policies\Google\Chrome\SyncDisabled
 ### [パスワード マネージャーへのパスワード保存を有効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::PasswordManagerEnabled&Language=ja-jp)
 
 ![image](https://user-images.githubusercontent.com/1501327/154181026-fb5d3da5-8df7-4c0b-94cc-29ec29dc4365.png)
+
+[PasswordManagerEnabled](https://chromeenterprise.google/policies/?policy=PasswordManagerEnabled)
+```
+Software\Policies\Google\Chrome\PasswordManagerEnabled
+```
