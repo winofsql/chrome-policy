@@ -21,7 +21,7 @@ Software\Policies\Google\Chrome\AutofillAddressEnabled
 Software\Policies\Google\Chrome\AutofillCreditCardEnabled
 ```
 
-### [デバイスから Chrome のデータを自動的に削除する](https://support.google.com/chrome/a/answer/10686330?hl=ja)
+### ❌ [デバイスから Chrome のデータを自動的に削除する](https://support.google.com/chrome/a/answer/10686330?hl=ja)
 
 [ClearBrowsingDataOnExitList](https://chromeenterprise.google/policies/?policy=ClearBrowsingDataOnExitList)
 ```
@@ -30,7 +30,7 @@ Software\Policies\Google\Chrome\ClearBrowsingDataOnExitList
 
 ![image](https://user-images.githubusercontent.com/1501327/154178065-433e2abf-332c-413b-9578-3454a54308dd.png)
 
-### [Google とのデータの同期を無効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::SyncDisabled&Language=ja-jp)
+### ❌ [Google とのデータの同期を無効にする](https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::SyncDisabled&Language=ja-jp)
 
 [SyncDisabled](https://chromeenterprise.google/policies/?policy=SyncDisabled)
 ```
@@ -55,12 +55,12 @@ Software\Policies\Google\Chrome\PasswordManagerEnabled
 
 ### 起動時
 
-[RestoreOnStartup](https://chromeenterprise.google/policies/#RestoreOnStartup)
+❌ [RestoreOnStartup](https://chromeenterprise.google/policies/#RestoreOnStartup)
 ```
 Software\Policies\Google\Chrome\RestoreOnStartup
 ```
 
-[RestoreOnStartupURLs](https://chromeenterprise.google/policies/#RestoreOnStartupURLs)
+❌ [RestoreOnStartupURLs](https://chromeenterprise.google/policies/#RestoreOnStartupURLs)
 ```
 Software\Policies\Google\Chrome\RestoreOnStartupURLs\1 = https://example.com
 Software\Policies\Google\Chrome\RestoreOnStartupURLs\2 = https://www.chromium.org
@@ -73,7 +73,7 @@ Software\Policies\Google\Chrome\RestoreOnStartupURLs\2 = https://www.chromium.or
 Software\Policies\Google\Chrome\ShowHomeButton
 ```
 
-[HomepageLocation](https://chromeenterprise.google/policies/#HomepageLocation)
+❌ [HomepageLocation](https://chromeenterprise.google/policies/#HomepageLocation)
 ```
 Software\Policies\Google\Chrome\HomepageLocation
 ```
