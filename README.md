@@ -56,3 +56,17 @@ Software\Policies\Google\Chrome\RestoreOnStartup
 Software\Policies\Google\Chrome\RestoreOnStartupURLs\1 = https://example.com
 Software\Policies\Google\Chrome\RestoreOnStartupURLs\2 = https://www.chromium.org
 ```
+
+### テザイン
+
+[ShowHomeButton](https://chromeenterprise.google/policies/#ShowHomeButton)
+```
+Software\Policies\Google\Chrome\ShowHomeButton
+```
+
+[HomepageLocation](https://chromeenterprise.google/policies/#HomepageLocation)
+```
+Software\Policies\Google\Chrome\HomepageLocation
+```
+
+<br>
