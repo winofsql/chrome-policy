@@ -7,4 +7,6 @@
 ![image](https://user-images.githubusercontent.com/1501327/154174399-7cbb3dd6-b974-46eb-a55d-27af1eb86496.png)
 
 
-[デバイスから Chrome のデータを自動的に削除する](https://support.google.com/chrome/a/answer/10686330?hl=ja)
+[デバイスから Chrome のデータを自動的に削除する](https://support.google.com/chrome/a/answer/10686330?hl=ja)\
+![image](https://user-images.githubusercontent.com/1501327/154178065-433e2abf-332c-413b-9578-3454a54308dd.png)
+
